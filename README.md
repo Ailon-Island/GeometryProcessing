@@ -1,2 +1,2 @@
 # GeometryProcessing
-To process 3D models and other geometry representations.
+Some utility scripts to process 3D models and other geometry representations.
